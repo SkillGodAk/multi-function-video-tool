@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PTT IP 線索檢視器</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <h1>PTT IP 線索檢視器</h1>
+        <p>來源 IP 分析固定完整掃描；推發文紀錄可另外選擇顯示筆數。</p>
+      </header>
+
+      <section class="search">
+        <label for="userId">使用者 ID</label>
+        <div class="search-row">
+          <input id="userId" value="a22663564" autocomplete="off" spellcheck="false">
+          <button id="searchButton">查詢</button>
+        </div>
+        <p id="status" class="status">輸入 ID 後開始查詢。</p>
+      </section>
+
+      <nav class="tabs" aria-label="結果分類">
+        <button class="tab active" data-tab="posts">推發文紀錄</button>
+        <button class="tab" data-tab="ips">來源 IP 分析</button>
+      </nav>
+
+      <section id="summary" class="summary"></section>
+      <section id="content" class="content"></section>
+    </main>
+
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>

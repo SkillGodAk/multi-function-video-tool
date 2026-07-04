@@ -1,0 +1,11 @@
+{
+  "name": "ptt-ip-index",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "index:users": "node scripts/index-users.mjs",
+    "serve": "node web-prototype/server.js"
+  }
+}
