@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T09:02:25.081Z",
+  "generatedAt": "2026-07-04T13:59:48.556Z",
   "records": [
     {
       "userId": "a22663564",
@@ -423,16 +423,52 @@
       "dateText": "07/03 15:30",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783063571.A.952",
       "title": "[新聞] 苯駢芘致癌油流入加工鏈 林淑芬怒轟食藥"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 20:23",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783081342.A.7E6",
+      "title": "[問卦] 誰能避免228查緝私菸民亂的發生"
+    },
+    {
+      "userId": "arelies",
+      "ip": "136.23.50.107",
+      "type": "post",
+      "board": "PC_Shopping",
+      "dateText": "2026/06/26 18:43",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+      "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.90",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "06/25 09:26",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782347244.A.52A",
+      "title": "[閒聊] 5800X3D今晚9點上架"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.76",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "06/21 02:52",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1781807978.A.6A8",
+      "title": "[估價] 白色主機"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 26,
+      "evidenceCount": 27,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 26,
+          "evidenceCount": 27,
           "evidence": [
             {
               "userId": "a22663564",
@@ -974,16 +1010,79 @@
           ]
         }
       ]
+    },
+    "136.23.50.107": {
+      "ip": "136.23.50.107",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.107",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/26 18:43",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+              "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+            }
+          ]
+        }
+      ]
+    },
+    "162.120.248.90": {
+      "ip": "162.120.248.90",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.90",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/25 09:26",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782347244.A.52A",
+              "title": "[閒聊] 5800X3D今晚9點上架"
+            }
+          ]
+        }
+      ]
+    },
+    "162.120.248.76": {
+      "ip": "162.120.248.76",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.76",
+              "type": "reply",
+              "board": "HardwareSale",
+              "dateText": "06/21 02:52",
+              "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1781807978.A.6A8",
+              "title": "[估價] 白色主機"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 26,
+      "evidenceCount": 27,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 26,
+          "evidenceCount": 27,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1171,7 +1270,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 19,
+      "evidenceCount": 22,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1288,6 +1387,21 @@
           ]
         },
         {
+          "ip": "136.23.50.107",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.107",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/26 18:43",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
+              "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+            }
+          ]
+        },
+        {
           "ip": "136.23.50.112",
           "evidenceCount": 1,
           "evidence": [
@@ -1348,6 +1462,21 @@
           ]
         },
         {
+          "ip": "162.120.248.76",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.76",
+              "type": "reply",
+              "board": "HardwareSale",
+              "dateText": "06/21 02:52",
+              "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1781807978.A.6A8",
+              "title": "[估價] 白色主機"
+            }
+          ]
+        },
+        {
           "ip": "162.120.248.80",
           "evidenceCount": 1,
           "evidence": [
@@ -1389,6 +1518,21 @@
               "dateText": "2026/06/12 04:33",
               "url": "https://www.pttweb.cc/bbs/car/M.1781210028.A.C2F",
               "title": "[心得] 末代馬五變速箱電腦更換"
+            }
+          ]
+        },
+        {
+          "ip": "162.120.248.90",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.90",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/25 09:26",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782347244.A.52A",
+              "title": "[閒聊] 5800X3D今晚9點上架"
             }
           ]
         },
