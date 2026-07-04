@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T13:59:48.556Z",
+  "generatedAt": "2026-07-04T19:38:47.118Z",
   "records": [
     {
       "userId": "a22663564",
@@ -459,16 +459,61 @@
       "dateText": "06/21 02:52",
       "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1781807978.A.6A8",
       "title": "[估價] 白色主機"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/06/30 23:27",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1782833265.A.DB7",
+      "title": "[問卦] 數發部提醒別用中資，怎麼都自己在洩漏"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/04 07:20",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783120704.A.894",
+      "title": "[問卦] 台灣癌症比例為何會比中國高啊？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 20:56",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783083326.A.A0C",
+      "title": "[新聞] 新北穩了?賴清德笑:蘇巧慧年底就要到新北"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 20:53",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783083118.A.238",
+      "title": "[問卦] 李多慧是真的頂還是過譽了？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/03 20:31",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783081871.A.28A",
+      "title": "[新聞] 準強颱巴威來襲！歐美模式不排除「通過台"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 27,
+      "evidenceCount": 32,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 27,
+          "evidenceCount": 32,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1078,11 +1123,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 27,
+      "evidenceCount": 32,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 27,
+          "evidenceCount": 32,
           "evidence": [
             {
               "userId": "a22663564",
