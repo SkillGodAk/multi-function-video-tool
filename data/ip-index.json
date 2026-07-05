@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:10:37.382Z",
+  "generatedAt": "2026-07-05T19:42:50.186Z",
   "records": [
     {
       "userId": "a22663564",
@@ -558,6 +558,24 @@
       "dateText": "06/26 19:11",
       "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782470594.A.371",
       "title": "Re: [閒聊] 喜傑獅告300壯士 ->目前確定撤告"
+    },
+    {
+      "userId": "arelies",
+      "ip": "162.120.248.100",
+      "type": "post",
+      "board": "PC_Shopping",
+      "dateText": "2026/06/30 16:29",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782808145.A.5DE",
+      "title": "Re: [心得] 原價屋5800X3D超賣"
+    },
+    {
+      "userId": "arelies",
+      "ip": "136.23.50.112",
+      "type": "reply",
+      "board": "BoardCourt",
+      "dateText": "06/28 12:45",
+      "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1782602191.A.32B",
+      "title": "Re: [公告] L0001、L0002案最後陳述意見"
     }
   ],
   "byIp": {
@@ -956,11 +974,11 @@
     },
     "136.23.50.112": {
       "ip": "136.23.50.112",
-      "evidenceCount": 1,
+      "evidenceCount": 2,
       "users": [
         {
           "userId": "arelies",
-          "evidenceCount": 1,
+          "evidenceCount": 2,
           "evidence": [
             {
               "userId": "arelies",
@@ -970,6 +988,15 @@
               "dateText": "06/18 15:25",
               "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1781767245.A.691",
               "title": "[心得] 用 AI 隨身碟幫忙重灌電腦，超省力！"
+            },
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.112",
+              "type": "reply",
+              "board": "BoardCourt",
+              "dateText": "06/28 12:45",
+              "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1782602191.A.32B",
+              "title": "Re: [公告] L0001、L0002案最後陳述意見"
             }
           ]
         }
@@ -1202,6 +1229,27 @@
           ]
         }
       ]
+    },
+    "162.120.248.100": {
+      "ip": "162.120.248.100",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.100",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/30 16:29",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782808145.A.5DE",
+              "title": "Re: [心得] 原價屋5800X3D超賣"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
@@ -1399,7 +1447,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 24,
+      "evidenceCount": 26,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1486,6 +1534,30 @@
           ]
         },
         {
+          "ip": "136.23.50.112",
+          "evidenceCount": 2,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.112",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/18 15:25",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1781767245.A.691",
+              "title": "[心得] 用 AI 隨身碟幫忙重灌電腦，超省力！"
+            },
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.112",
+              "type": "reply",
+              "board": "BoardCourt",
+              "dateText": "06/28 12:45",
+              "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1782602191.A.32B",
+              "title": "Re: [公告] L0001、L0002案最後陳述意見"
+            }
+          ]
+        },
+        {
           "ip": "162.120.248.126",
           "evidenceCount": 2,
           "evidence": [
@@ -1540,21 +1612,6 @@
           ]
         },
         {
-          "ip": "136.23.50.112",
-          "evidenceCount": 1,
-          "evidence": [
-            {
-              "userId": "arelies",
-              "ip": "136.23.50.112",
-              "type": "reply",
-              "board": "PC_Shopping",
-              "dateText": "06/18 15:25",
-              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1781767245.A.691",
-              "title": "[心得] 用 AI 隨身碟幫忙重灌電腦，超省力！"
-            }
-          ]
-        },
-        {
           "ip": "136.23.50.124",
           "evidenceCount": 1,
           "evidence": [
@@ -1596,6 +1653,21 @@
               "dateText": "2026/06/26 05:14",
               "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1782422048.A.0B9",
               "title": "Re: [公告] L0001、L0002案最後陳述意見"
+            }
+          ]
+        },
+        {
+          "ip": "162.120.248.100",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "162.120.248.100",
+              "type": "post",
+              "board": "PC_Shopping",
+              "dateText": "2026/06/30 16:29",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782808145.A.5DE",
+              "title": "Re: [心得] 原價屋5800X3D超賣"
             }
           ]
         },
