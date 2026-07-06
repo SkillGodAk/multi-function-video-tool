@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:42:50.186Z",
+  "generatedAt": "2026-07-06T04:40:22.913Z",
   "records": [
     {
       "userId": "a22663564",
@@ -576,16 +576,124 @@
       "dateText": "06/28 12:45",
       "url": "https://www.pttweb.cc/bbs/BoardCourt/M.1782602191.A.32B",
       "title": "Re: [公告] L0001、L0002案最後陳述意見"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/01 14:07",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1782886072.A.540",
+      "title": "[問卦] 中國仿生機器人開賣，肥宅春天"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 09:36",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783301767.A.682",
+      "title": "[問卦] 要如何提升自我的影響力？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 09:29",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783301293.A.F37",
+      "title": "[新聞] 曾馨瑩氣到離家！她揭密郭台銘「雙重低"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/06 09:07",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783299763.A.073",
+      "title": "[賣/基隆/皆可] irocks K85R 摩卡棕 靜音奶茶軸 全新"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 08:29",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783297722.A.825",
+      "title": "[新聞] 王力宏重摔臉耳噴血縫39針"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 08:23",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783297300.A.E89",
+      "title": "[問卦] 怎樣快速激怒台灣人的八卦？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 07:46",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783293929.A.411",
+      "title": "[問卦] 食藥署罵翻後公佈下游廠商清單"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/06 07:34",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783294432.A.893",
+      "title": "[賣/雙北/ASUS DUAL 4060TI OC 8G WHITE]"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/05 19:29",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783250894.A.F35",
+      "title": "Re: [問卦] 成人展說不能觸碰女優是不是智障"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/05 17:48",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783241756.A.513",
+      "title": "［賣/台北/面交] DDR4 NB 3200 32G*2 / 4G*3"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/05 15:58",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783238149.A.72B",
+      "title": "[問卦] 三鶯線旅遊該怎麼玩？有甚麼景點？"
+    },
+    {
+      "userId": "arelies",
+      "ip": "136.23.50.77",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "06/29 21:49",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
+      "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 36,
+      "evidenceCount": 47,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 36,
+          "evidenceCount": 47,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1250,16 +1358,37 @@
           ]
         }
       ]
+    },
+    "136.23.50.77": {
+      "ip": "136.23.50.77",
+      "evidenceCount": 1,
+      "users": [
+        {
+          "userId": "arelies",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.77",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/29 21:49",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
+              "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
+            }
+          ]
+        }
+      ]
     }
   },
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 36,
+      "evidenceCount": 47,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 36,
+          "evidenceCount": 47,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1447,7 +1576,7 @@
     },
     "arelies": {
       "userId": "arelies",
-      "evidenceCount": 26,
+      "evidenceCount": 27,
       "ips": [
         {
           "ip": "162.120.248.81",
@@ -1638,6 +1767,21 @@
               "dateText": "2026/06/29 01:53",
               "url": "https://www.pttweb.cc/bbs/biker/M.1782669214.A.9A0",
               "title": "[公告] 解除水桶處分通知"
+            }
+          ]
+        },
+        {
+          "ip": "136.23.50.77",
+          "evidenceCount": 1,
+          "evidence": [
+            {
+              "userId": "arelies",
+              "ip": "136.23.50.77",
+              "type": "reply",
+              "board": "PC_Shopping",
+              "dateText": "06/29 21:49",
+              "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1782558402.A.DAD",
+              "title": "[開箱] 簡單開箱7800X3D+X870E大升級"
             }
           ]
         },
