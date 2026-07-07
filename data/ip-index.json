@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T04:17:38.594Z",
+  "generatedAt": "2026-07-07T10:01:33.630Z",
   "records": [
     {
       "userId": "a22663564",
@@ -909,16 +909,43 @@
       "dateText": "2026/07/01 15:56",
       "url": "https://www.pttweb.cc/bbs/biker/M.1782892570.A.592",
       "title": "[公告] CharlesCL 水桶兩百七十天"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 20:55",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783342465.A.063",
+      "title": "[新聞] 陳佩琪爆冷錢包 律師：讓柯文哲收賄1500"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 20:32",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783341119.A.237",
+      "title": "[問卦] 凡人修仙動畫進度有夠慢"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/06 20:24",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783339651.A.C04",
+      "title": "[問卦] 以前的硬碟不能裝在新的電腦上嗎"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 66,
+      "evidenceCount": 69,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 66,
+          "evidenceCount": 69,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1675,11 +1702,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 66,
+      "evidenceCount": 69,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 66,
+          "evidenceCount": 69,
           "evidence": [
             {
               "userId": "a22663564",
