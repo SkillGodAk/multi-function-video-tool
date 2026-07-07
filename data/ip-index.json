@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T10:01:33.630Z",
+  "generatedAt": "2026-07-07T15:16:11.085Z",
   "records": [
     {
       "userId": "a22663564",
@@ -936,16 +936,52 @@
       "dateText": "07/06 20:24",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783339651.A.C04",
       "title": "[問卦] 以前的硬碟不能裝在新的電腦上嗎"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/03 15:44",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783064683.A.D3B",
+      "title": "[問卦] 韓國Kia是不是看台灣沒有"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 09:58",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783389515.A.134",
+      "title": "[問卦] 台灣人為什麼要含日本懶叫"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 09:41",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783388007.A.C58",
+      "title": "[問卦] 去歐洲玩沒冷氣？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/07 09:37",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783387823.A.900",
+      "title": "[徵/全國/皆可] 桌上型 DDR4 3200/3600 16G*2"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 69,
+      "evidenceCount": 73,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 69,
+          "evidenceCount": 73,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1702,11 +1738,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 69,
+      "evidenceCount": 73,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 69,
+          "evidenceCount": 73,
           "evidence": [
             {
               "userId": "a22663564",
