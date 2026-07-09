@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T10:03:08.191Z",
+  "generatedAt": "2026-07-09T15:35:31.567Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1044,16 +1044,34 @@
       "dateText": "07/07 10:24",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783390963.A.476",
       "title": "[新聞] 綠營轟吳子嘉不公布高雄民調 謝寒冰推測"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/06 18:18",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783333089.A.D37",
+      "title": "[問卦] 現在聯誼槍手比例高嘛"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/07 12:08",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783397210.A.2F4",
+      "title": "[問卦] 人的幻覺比AI嚴重吧？"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 81,
+      "evidenceCount": 83,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 81,
+          "evidenceCount": 83,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1810,11 +1828,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 81,
+      "evidenceCount": 83,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 81,
+          "evidenceCount": 83,
           "evidence": [
             {
               "userId": "a22663564",
