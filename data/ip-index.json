@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:54:01.605Z",
+  "generatedAt": "2026-07-10T15:02:32.834Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1197,16 +1197,43 @@
       "dateText": "07/09 08:19",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783555149.A.015",
       "title": "[問卦] 台灣不選擇台北，哪個縣市最宜居?"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 16:01",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783670195.A.1EF",
+      "title": "[問卦] 看到中國被罵就忍不住反駁的人是？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 11:50",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783655222.A.CFC",
+      "title": "[問卦] 北北基居民進來一下謝謝"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 11:46",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783655024.A.A6C",
+      "title": "[問卦] 台北這次算是創了颱風假的高度嗎？"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 97,
+      "evidenceCount": 100,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 97,
+          "evidenceCount": 100,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1984,11 +2011,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 98,
+      "evidenceCount": 101,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 97,
+          "evidenceCount": 100,
           "evidence": [
             {
               "userId": "a22663564",
