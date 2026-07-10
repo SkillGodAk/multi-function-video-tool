@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T04:16:17.117Z",
+  "generatedAt": "2026-07-10T09:54:01.605Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1116,16 +1116,97 @@
       "dateText": "07/07 16:41",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783413643.A.833",
       "title": "[問卦] 日本到處慶祝美日友好 台灣只有點燈？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/07 11:40",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783395625.A.E6C",
+      "title": "[問卦] 新聞為什麼要營造可以放假的錯覺"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "nb-shopping",
+      "dateText": "07/10 10:19",
+      "url": "https://www.pttweb.cc/bbs/nb-shopping/M.1783644564.A.103",
+      "title": "[估價 ] MSI Katana 15 (i7-14650HX/RTX5070)"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 09:02",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783645235.A.B53",
+      "title": "[問卦] 中央氣象署的預報有達放假標準嗎？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 08:41",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783644036.A.697",
+      "title": "[問卦] 全台下雨回報"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 07:59",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783641403.A.372",
+      "title": "[問卦] 好了啦 不想放假的都滾去上班"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/09 21:50",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783603971.A.C63",
+      "title": "[賣/全國/皆可] 主機12700K、Z690、64G、650w"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "07/09 11:23",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1783567115.A.0A6",
+      "title": "[心得] 嫩妹舌頭靈活吸到我硬爆"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/09 10:49",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1783562876.A.3B7",
+      "title": "[賣/台北/面交] DDR4 8GB 3200MHz 二條"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/09 08:19",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783555149.A.015",
+      "title": "[問卦] 台灣不選擇台北，哪個縣市最宜居?"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 88,
+      "evidenceCount": 97,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 88,
+          "evidenceCount": 97,
           "evidence": [
             {
               "userId": "a22663564",
@@ -1903,11 +1984,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 89,
+      "evidenceCount": 98,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 88,
+          "evidenceCount": 97,
           "evidence": [
             {
               "userId": "a22663564",
