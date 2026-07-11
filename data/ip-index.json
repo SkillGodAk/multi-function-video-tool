@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T08:15:18.282Z",
+  "generatedAt": "2026-07-11T13:55:39.246Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1341,16 +1341,61 @@
       "dateText": "07/10 17:43",
       "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1783676165.A.4B9",
       "title": "Re: [閒聊] 5800X3D今晚9點上架"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/09 22:44",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783608278.A.4A5",
+      "title": "[問卦] 北部才放一天 南部是在羨慕什麼"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/11 10:18",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783736256.A.A0A",
+      "title": "[問卦] 我對中國很失望 原來回收方案也是抄的"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 23:23",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783696932.A.D79",
+      "title": "Re: 經濟創新高 為何上半年出生數不到5萬人"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "HardwareSale",
+      "dateText": "07/10 22:53",
+      "url": "https://www.pttweb.cc/bbs/HardwareSale/M.1782836883.A.B3F",
+      "title": "[公告] 置底檢舉/自首區 (2026/07/01)"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "Gossiping",
+      "dateText": "07/10 18:02",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783677640.A.C0F",
+      "title": "[問卦] 板上真的有人架本地ai主機而賺到錢的嗎"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 113,
+      "evidenceCount": 118,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 113,
+          "evidenceCount": 118,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2128,11 +2173,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 114,
+      "evidenceCount": 119,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 113,
+          "evidenceCount": 118,
           "evidence": [
             {
               "userId": "a22663564",
