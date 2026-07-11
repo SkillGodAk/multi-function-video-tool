@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T03:44:00.254Z",
+  "generatedAt": "2026-07-11T08:15:18.282Z",
   "records": [
     {
       "userId": "a22663564",
@@ -1314,16 +1314,43 @@
       "dateText": "07/10 16:35",
       "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783672465.A.170",
       "title": "[問卦] 明天寶可夢活動 會很多人去北車抓超夢？"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/09 11:09",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783566548.A.8A6",
+      "title": "[問卦] 被媒體吹的最強颱怎麼早洩"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "post",
+      "board": "Gossiping",
+      "dateText": "2026/07/09 09:40",
+      "url": "https://www.pttweb.cc/bbs/Gossiping/M.1783561201.A.B31",
+      "title": "Re: [新聞] 風暴擴大 問題油暴增至2600餘公噸"
+    },
+    {
+      "userId": "a22663564",
+      "ip": "180.214.182.79",
+      "type": "reply",
+      "board": "PC_Shopping",
+      "dateText": "07/10 17:43",
+      "url": "https://www.pttweb.cc/bbs/PC_Shopping/M.1783676165.A.4B9",
+      "title": "Re: [閒聊] 5800X3D今晚9點上架"
     }
   ],
   "byIp": {
     "180.214.182.79": {
       "ip": "180.214.182.79",
-      "evidenceCount": 110,
+      "evidenceCount": 113,
       "users": [
         {
           "userId": "a22663564",
-          "evidenceCount": 110,
+          "evidenceCount": 113,
           "evidence": [
             {
               "userId": "a22663564",
@@ -2101,11 +2128,11 @@
   "byUser": {
     "a22663564": {
       "userId": "a22663564",
-      "evidenceCount": 111,
+      "evidenceCount": 114,
       "ips": [
         {
           "ip": "180.214.182.79",
-          "evidenceCount": 110,
+          "evidenceCount": 113,
           "evidence": [
             {
               "userId": "a22663564",
