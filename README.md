@@ -1,61 +1,28 @@
-# PTT IP Index
+# 多功能影片處理工具
 
-Free, local-first PTT public source IP indexing prototype.
+這個 repository 用來發布 SkillGodAK 的 Windows 版「多功能影片處理工具」EXE，以及提供程式啟動時自動檢查更新用的 `version.json`。
 
-This project does not depend on Plytic data. GitHub Actions runs a small scheduled crawler, stores the generated index in `data/ip-index.json`, and the web prototype can use that index to show shared-IP clues.
+## 最新版本
 
-## Free Architecture
+- 版本：`20260717`
+- 檔名：`多功能影片處理工具20260717.exe`
+- Release：[v20260717](https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717)
 
-- GitHub public repository: hosts code and scheduled Actions.
-- GitHub Actions: crawls a small batch of seed users every 6 hours.
-- Cloudflare Worker + D1: optional free queue for IDs searched by users.
-- JSON index: stores `IP -> user IDs` and `user ID -> IPs` evidence.
-- Web prototype: local UI for testing search and source IP analysis.
+## 20260717 更新內容
 
-## Local Commands
+- 修正 EXE 重命名分頁日誌/預覽偶發不顯示問題。
+- 將重命名分頁背景執行緒的 UI 更新改回主執行緒處理。
+- 新增啟動自動檢查更新功能，會讀取 GitHub 上的 `version.json`。
+- 新增單一執行限制，重複開啟會顯示錯誤提示，不再開第二個主視窗。
+- 補強智能命名：`作品名 2 - 10 [1080P]` 會穩定判斷為第 10 集。
+- 保留並驗證 `25 4K`、`01v2`、`REPACK/PROPER`、`GM-Team` 括號集數等智能命名支援。
 
-```bash
-npm test
-npm run index:users
-npm run serve
-```
+## 自動更新資料
 
-Open:
-
-```text
-http://127.0.0.1:5179
-```
-
-## Seed Users
-
-Edit `data/seed-users.json` to decide which PTT IDs the free crawler should index.
-
-## Optional Cloudflare Queue
-
-Deploy `cloudflare-worker/` when you want users of the web app or APK to submit IDs for indexing without exposing a GitHub token.
-
-1. Create a Cloudflare D1 database named `ptt_ip_index`.
-2. Copy `cloudflare-worker/wrangler.toml.example` to `cloudflare-worker/wrangler.toml`.
-3. Put the D1 database id into `wrangler.toml`.
-4. Set `QUEUE_TOKEN` to a random secret.
-5. Run the D1 schema:
-
-```bash
-cd cloudflare-worker
-npm install
-npm run d1:migrate
-npm run deploy
-```
-
-6. Add GitHub repository secrets:
+程式會讀取：
 
 ```text
-PTT_INDEX_QUEUE_URL=https://your-worker.your-subdomain.workers.dev
-PTT_INDEX_QUEUE_TOKEN=the-same-random-secret
+https://raw.githubusercontent.com/SkillGodAk/multi-function-video-tool/master/version.json
 ```
 
-After that, GitHub Actions imports queued IDs before each scheduled index update.
-
-## Limits
-
-This free version builds the index gradually. It will not instantly cover all PTT users. Shared IP is only a clue and does not prove two accounts belong to the same person.
+當 `version` 大於本機版本時，程式會提示是否下載新版並覆蓋目前 EXE。

@@ -1,0 +1,8 @@
+{
+  "version": "20260717",
+  "name": "多功能影片處理工具20260717",
+  "filename": "多功能影片處理工具20260717.exe",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717/20260717.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717",
+  "notes": "修正重命名分頁日誌/預覽偶發不顯示；新增啟動自動檢查更新；新增單一執行限制；補強作品名 2 - 10 [1080P] 的集數判斷；保留 25 4K、01v2、REPACK/PROPER、GM-Team 等智能命名支援。"
+}
