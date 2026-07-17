@@ -4,5 +4,5 @@
   "filename": "多功能影片處理工具20260717-2.exe",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717-2/20260717-2.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717-2",
-  "notes": "新增手動檢查更新、下載進度視窗、關於視窗；重命名可從 Season 02、S2、第2季、純數字資料夾自動判斷季數；預覽會顯示略過原因統計；重命名完成後會產生 rename_report_日期.txt；修正 20260717-2 這類同日小版本更新判斷。"
+  "notes": "新增手動檢查更新、下載進度視窗、關於視窗；重命名可從 Season 02、S2、第2季、純數字資料夾自動判斷季數；預覽會顯示略過原因統計；重命名完成後會產生 rename_report_日期.txt；修正 20260717-2 這類同日小版本更新判斷；更新檢查新增 GitHub API 備援，避免 raw 快取延遲。"
 }
