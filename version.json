@@ -1,9 +1,9 @@
 {
-  "version": "20260717",
-  "name": "多功能影片處理工具20260717",
+  "version": "20260718",
+  "name": "多功能影片處理工具20260718",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "EF84CC996AFC81C814817C0E145CAA1672849F418A88018C94395F253DAA7FC8",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260717/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260717",
-  "notes": "修正音軌字幕處理未執行與日誌不顯示；背景工作改由主介面安全更新；補齊完整 Tkinter 封裝並通過真實影片處理與 36 項測試。"
+  "sha256": "F3047D860C41A0A0FB08413DDF18CE77E99AB77242460F831C7B9D0DE137DDA9",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260718/multi-function-video-tool.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260718",
+  "notes": "修正覆蓋原影片時可能遺失檔案的問題，改為成功後才安全取代原檔；修正停止轉換後的狀態顯示並清除未完成輸出；新增更新檔 SHA256 驗證、無效下載清理與覆蓋重試上限。已通過 43 項自動測試及真實 MKV、停止轉換與更新下載驗證。"
 }
