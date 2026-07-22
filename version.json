@@ -1,9 +1,9 @@
 {
-  "version": "20260718",
-  "name": "多功能影片處理工具20260718",
+  "version": "20260722",
+  "name": "多功能影片處理工具20260722",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "F3047D860C41A0A0FB08413DDF18CE77E99AB77242460F831C7B9D0DE137DDA9",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260718/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260718",
-  "notes": "修正覆蓋原影片時可能遺失檔案的問題，改為成功後才安全取代原檔；修正停止轉換後的狀態顯示並清除未完成輸出；新增更新檔完整性驗證、無效下載清理與覆蓋重試上限。"
+  "sha256": "B4D00DC7F690380E7ADA764CBA07AC9E130E4D47AB959A7EABEEB14988A67BC7",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260722/multi-function-video-tool.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260722",
+  "notes": "修正部分 AV1 影片移除音軌或字幕後影像消失、輸出只剩數十 MB 的問題；針對 AV1 重建畫面邊界並保留未標記關鍵影格的影像資料；覆蓋原檔前新增影像軌、編碼與資料完整性驗證，異常時保留原始影片。"
 }
