@@ -2,8 +2,8 @@
   "version": "20260722",
   "name": "多功能影片處理工具20260722",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "6F4E0D220D6370B998379D44BA7437E75527B85A8F457054C7A0C8425304DE4F",
+  "sha256": "E37AC48D5249E977B08CD0D8A4D75CE78BE8BB0E93066482463E4B656F0A22E1",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260722/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260722",
-  "notes": "修正 AV1 MKV 移除音軌或字幕後拖曳進度條可能卡住或使播放器沒有回應；MKV 處理改用 MKVToolNix 並保留定位索引、字幕字型與章節；修正自動更新 WinError 740 與背景等待失效問題。"
+  "notes": "修正 AV1 MKV 移除音軌或字幕後拖曳進度條可能卡住或使播放器沒有回應；MKV 處理改用 MKVToolNix 並保留定位索引、字幕字型與章節；修正自動更新 WinError 740 與背景等待失效；移除重命名完成後在原資料夾自動產生 TXT 報告。"
 }
