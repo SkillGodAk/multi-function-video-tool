@@ -3,7 +3,7 @@
   "name": "多功能影片處理工具 v20260726",
   "filename": "多功能影片處理工具.exe",
   "sha256": "F0EA98643747B57AC89CC9D1FEB581F7854FD2516E87EEEA35B909343AAF77AB",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260726/%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%BD%B1%E7%89%87%E8%99%95%E7%90%86%E5%B7%A5%E5%85%B7.exe",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260726/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260726",
-  "notes": "修正部分 HEVC MKV 移除音軌或字幕後，因參數集重整造成輸出比原片大的問題；有移除軌道時，成品必須小於原片才會安全覆蓋；AV1 維持無損重新封裝與完整性檢查；調整程式標題與版本顯示；GitHub 下載檔名改為「多功能影片處理工具.exe」。"
+  "notes": "修正部分 HEVC MKV 移除音軌或字幕後，因參數集重整造成輸出比原片大的問題；有移除軌道時，成品必須小於原片才會安全覆蓋；AV1 維持無損重新封裝與完整性檢查；調整程式標題與版本顯示。"
 }
