@@ -3,7 +3,7 @@
   "name": "多功能影片處理工具 v20260803",
   "filename": "多功能影片處理工具.exe",
   "sha256": "3F3A432A5AB72EFD5FADAD012F55CC619F1F2A6299DA311A6883050FB35F8E92",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260803/%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%BD%B1%E7%89%87%E8%99%95%E7%90%86%E5%B7%A5%E5%85%B7.exe",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260803/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260803",
   "notes": "修正正式版無法辨識純數字影片與字幕檔名的問題；現在即使選用解析器不可用，01.mp4、01.ass 等檔名也能依季數安全轉為 SxxExx，並排除年份與常見解析度數字。"
 }
