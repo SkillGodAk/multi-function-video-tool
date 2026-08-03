@@ -1,9 +1,9 @@
 {
-  "version": "20260726",
-  "name": "多功能影片處理工具 v20260726",
+  "version": "20260803",
+  "name": "多功能影片處理工具 v20260803",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "F0EA98643747B57AC89CC9D1FEB581F7854FD2516E87EEEA35B909343AAF77AB",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260726/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260726",
-  "notes": "修正部分 HEVC MKV 移除音軌或字幕後，因參數集重整造成輸出比原片大的問題；有移除軌道時，成品必須小於原片才會安全覆蓋；AV1 維持無損重新封裝與完整性檢查；調整程式標題與版本顯示。"
+  "sha256": "3F3A432A5AB72EFD5FADAD012F55CC619F1F2A6299DA311A6883050FB35F8E92",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260803/%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%BD%B1%E7%89%87%E8%99%95%E7%90%86%E5%B7%A5%E5%85%B7.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260803",
+  "notes": "修正正式版無法辨識純數字影片與字幕檔名的問題；現在即使選用解析器不可用，01.mp4、01.ass 等檔名也能依季數安全轉為 SxxExx，並排除年份與常見解析度數字。"
 }
