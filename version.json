@@ -1,9 +1,9 @@
 {
-  "version": "20260803",
-  "name": "多功能影片處理工具 v20260803",
+  "version": "20260805",
+  "name": "多功能影片處理工具 v20260805",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "3F3A432A5AB72EFD5FADAD012F55CC619F1F2A6299DA311A6883050FB35F8E92",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260803/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260803",
-  "notes": "修正正式版無法辨識純數字影片與字幕檔名的問題；現在即使選用解析器不可用，01.mp4、01.ass 等檔名也能依季數安全轉為 SxxExx，並排除年份與常見解析度數字。"
+  "sha256": "4BD16977FFDB73C0EAC52A44CDEA4F0CDC1822D1E23753FC224C8786E74C0F0D",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260805/multi-function-video-tool.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260805",
+  "notes": "新增外掛字幕嵌入功能，可自動配對同名字幕、保留多條字幕並設定預設字幕與播放器顯示名稱；新增字幕燒入功能，支援輸出格式、CPU／NVIDIA／AMD、畫質、字型、大小、描邊與位置設定；新增深色字型挑選視窗，支援搜尋、預覽、滾輪與鍵盤操作；新增燒入即時進度，顯示目前檔案與整批百分比並同步更新進度條與日誌。"
 }
