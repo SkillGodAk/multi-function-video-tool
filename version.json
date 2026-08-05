@@ -5,5 +5,5 @@
   "sha256": "4BD16977FFDB73C0EAC52A44CDEA4F0CDC1822D1E23753FC224C8786E74C0F0D",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260805/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260805",
-  "notes": "新增外掛字幕嵌入功能，可自動配對同名字幕、保留多條字幕並設定預設字幕與播放器顯示名稱；新增字幕燒入功能，支援輸出格式、CPU／NVIDIA／AMD、畫質、字型、大小、描邊與位置設定；新增深色字型挑選視窗，支援搜尋、預覽、滾輪與鍵盤操作；新增燒入即時進度，顯示目前檔案與整批百分比並同步更新進度條與日誌。"
+  "notes": "新增外掛字幕嵌入功能，可自動配對同名字幕、保留多條字幕並設定預設字幕與播放器顯示名稱；新增字幕燒入功能，支援輸出格式、CPU／NVIDIA／AMD、畫質、字型、大小、描邊與位置設定。"
 }
