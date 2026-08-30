@@ -1,9 +1,9 @@
 {
-  "version": "20260805",
-  "name": "多功能影片處理工具 v20260805",
+  "version": "20260830",
+  "name": "多功能影片處理工具 v20260830",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "4BD16977FFDB73C0EAC52A44CDEA4F0CDC1822D1E23753FC224C8786E74C0F0D",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260805/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260805",
-  "notes": "新增外掛字幕嵌入功能，可自動配對同名字幕、保留多條字幕並設定預設字幕與播放器顯示名稱；新增字幕燒入功能，支援輸出格式、CPU／NVIDIA／AMD、畫質、字型、大小、描邊與位置設定。"
+  "sha256": "62CA6496305E322D151DFA7243A4281812EF76D9718AB8D6394F3AE1E835EB32",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260830/multi-function-video-tool.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260830",
+  "notes": "優化不同解析度與 Windows DPI 縮放下的介面與時間軸操作，並修正字幕時間調整及字幕嵌入相容性問題。"
 }
