@@ -1,9 +1,9 @@
 {
-  "version": "20260923",
-  "name": "多功能影片處理工具 v20260923",
+  "version": "20260923.2",
+  "name": "多功能影片處理工具 v20260923 v2.0",
   "filename": "多功能影片處理工具.exe",
-  "sha256": "B839CBC00065BD80C4F35E4A8518CA4F61DA8C97D9351E4D64BC32C48C5E5CA0",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260923/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260923",
-  "notes": "新增雙語字幕處理功能，支援文字軟字幕上下行及字幕群組移除、雙窗口預覽與未分類字幕查看。"
+  "sha256": "F9AF5D2B285C42314A85D8B7F1A9173FB0362CA4CBBB655F23BCDEA225F7452D",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20260923.2/multi-function-video-tool.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20260923.2",
+  "notes": "優化雙語字幕群組與上下行判別，擴充文字字幕格式支援，並更新簡體／繁體字幕轉換功能。"
 }
