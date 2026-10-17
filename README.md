@@ -53,3 +53,4 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 ## 下載
 
 請從 [GitHub Releases](https://github.com/SkillGodAk/multi-function-video-tool/releases) 下載最新版 `多功能影片處理工具.exe`。
+
