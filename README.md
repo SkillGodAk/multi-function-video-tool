@@ -53,3 +53,19 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 ## 下載
 
 請從 [GitHub Releases](https://github.com/SkillGodAk/multi-function-video-tool/releases) 下載最新版 `多功能影片處理工具.exe`。
+
+## 贊助作者
+
+如果這個工具對你有幫助，歡迎自願支持。
+
+### 國外贊助
+
+<a href="https://buymeacoffee.com/SkillGodAK"><img src="https://raw.githubusercontent.com/SkillGodAk/HGTV/main/assets/donate-buymeacoffee.svg" alt="Buy Me a Coffee" width="180"></a>
+
+### 微信贊助
+
+<img src="https://raw.githubusercontent.com/SkillGodAk/HGTV/main/assets/donate-wechat.jpg" alt="微信贊助 QR Code" width="180">
+
+### 台灣贊助
+
+<img src="https://raw.githubusercontent.com/SkillGodAk/SkillGodAk/main/assets/donate-taiwan.jpg" alt="台灣贊助 QR Code" width="180">
