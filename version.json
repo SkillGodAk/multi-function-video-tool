@@ -1,10 +1,10 @@
 {
-  "version": "20261108",
+  "version": "20261108.3",
   "name": "多功能影片處理工具 v20261108",
-  "filename": "multi-function-video-tool-bridge.exe",
+  "filename": "multi-function-video-tool.exe",
   "update_type": "portable",
-  "sha256": "B99CED9744416EC042A6A7CDB0874BD8407F52DC1A11D1C43583BEA3F18272CD",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20261108.1/multi-function-video-tool-bridge.exe",
+  "sha256": "CF7ECBFBBB27EED4BCECCAD2B62BA1FB0A9C66025D68FAC6EA849ED057AB3C67",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20261108.1/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20261108.1",
-  "notes": "改善 4K 預覽、手動重命名與安裝方式；本次更新會接續開啟安裝精靈。"
+  "notes": "改善高解析度顯示與手動重命名，恢復免安裝單檔 EXE，可直接覆蓋更新。"
 }
