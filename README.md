@@ -2,7 +2,7 @@
 
 Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同一個程式內完成。
 
-**最新正式版：v20261108（安裝版）**。舊版程式只要按一次「更新」，就會自動銜接安裝精靈，可自行選擇安裝位置。
+**最新正式版：v20261108（免安裝單檔版）**。下載 EXE 即可直接使用，不需安裝；舊版免安裝程式可透過內建更新功能直接覆蓋新版。
 
 [下載最新正式版](https://github.com/SkillGodAk/multi-function-video-tool/releases/latest) ｜ [查看版本更新內容](https://github.com/SkillGodAk/multi-function-video-tool/releases)
 
@@ -54,5 +54,5 @@ Windows 影片、字幕與檔案整理工具，將常用處理功能集中在同
 
 ## 下載
 
-請從 [GitHub Releases](https://github.com/SkillGodAk/multi-function-video-tool/releases) 下載最新版 `多功能影片處理工具.exe`。
+請從 [GitHub Releases](https://github.com/SkillGodAk/multi-function-video-tool/releases) 下載最新版 `multi-function-video-tool.exe`。
 
