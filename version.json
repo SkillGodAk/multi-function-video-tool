@@ -1,9 +1,10 @@
 {
-  "version": "20261014",
-  "name": "多功能影片處理工具 v20261014",
-  "filename": "多功能影片處理工具.exe",
-  "sha256": "16D82DCE8381021E456C27E2D5DAED16E8D7510E11DBB08339BBC9EE1EB8261A",
-  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20261014/multi-function-video-tool.exe",
-  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20261014",
-  "notes": "全面優化操作介面，新增影片轉換簡易模式及重命名表格預覽與手動集數設定，改善字幕與音軌輸出操作。"
+  "version": "20261108",
+  "name": "多功能影片處理工具 v20261108",
+  "filename": "multi-function-video-tool-bridge.exe",
+  "update_type": "portable",
+  "sha256": "B99CED9744416EC042A6A7CDB0874BD8407F52DC1A11D1C43583BEA3F18272CD",
+  "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20261108.1/multi-function-video-tool-bridge.exe",
+  "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20261108.1",
+  "notes": "改善 4K 預覽、手動重命名與安裝方式；本次更新會接續開啟安裝精靈。"
 }
