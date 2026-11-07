@@ -1,9 +1,9 @@
 {
-  "version": "20261108.1",
+  "version": "20261108.2",
   "name": "多功能影片處理工具 v20261108 安裝版",
   "filename": "multi-function-video-tool.exe",
   "update_type": "installer",
-  "sha256": "60C8E58069CE10669375778A3AE5E03C631FE536483CDFAEDB0D5B2B665EE927",
+  "sha256": "DF2F22B81F4A930DC682910A501B0653919E7A4E138621AF39085A8F7D5A6877",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20261108.1/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20261108.1",
   "notes": "正式安裝版可自訂安裝路徑，過渡版會直接開啟安裝精靈。"
