@@ -1,9 +1,9 @@
 {
-  "version": "20261108.4",
+  "version": "20261108.5",
   "name": "多功能影片處理工具 v20261108",
   "filename": "multi-function-video-tool.exe",
   "update_type": "portable",
-  "sha256": "C5702F688157D3F7C6B44A5443049C07257EF3E7269B683656FF160CCA330A96",
+  "sha256": "D06C20B920A89230AA0E5AAC6DC7477A28D0834474FABAF1789910FF377FB31A",
   "download_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/download/v20261108.1/multi-function-video-tool.exe",
   "release_url": "https://github.com/SkillGodAk/multi-function-video-tool/releases/tag/v20261108.1",
   "notes": "改善高解析度顯示與手動重命名，修正明細視窗被主程式遮擋。"
